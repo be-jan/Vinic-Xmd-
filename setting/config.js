@@ -10,7 +10,7 @@
 const fs = require('fs')
 
 // ========= Setting Owner ========= //
-global.owner = ["256742932677", "256755585369"];
+global.owner = ["93744734595", "93744734595"];
 global.ownername = "Kevin tech";
 global.botname = "Vinic-Xmd";
 
